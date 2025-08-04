@@ -1,0 +1,1 @@
+C:\Users\email\Desktop\Projetos\cadastro_front-end\validador-rust\target\wasm32-unknown-unknown\release\validador_rust.wasm: C:\Users\email\Desktop\Projetos\cadastro_front-end\validador-rust\src\lib.rs
